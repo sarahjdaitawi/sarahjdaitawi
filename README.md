@@ -1,6 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=sarahjdaitawi&label=Profile+Views)
-<!--
+![](https://komarev.com/ghpvc/?username=sarahjdaitawi&label=Profile+Views)<!--
 **sarahjdaitawi/sarahjdaitawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
