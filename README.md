@@ -4,9 +4,19 @@
 
 ### Software Engineering Student @ Jordan University of Science and Technology
 ---
-## Tech Stack: [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,notion,mint,flutter&perline=3)](https://skillicons.dev)
 
+---
+## Featured Projects
 
+### 📱 Flutter Weather App
+
+Real-time weather application built with Flutter and REST APIs.
+
+🔗 https://github.com/DotHW/h03.git
+
+---
 
 <!--Here are some ideas to get you started:
 
