@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=sarahjdaitawi&label=Profile+Views)
 
-# Hey, I'm Sarah Jdaitawi✨
+# Hi, I'm Sarah Jdaitawi✨
 
-
+### Software Engineering Student @ Jordan University of Science and Technology
 
 <!--Here are some ideas to get you started:
 
