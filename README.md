@@ -1,4 +1,4 @@
-## Hi, It's Sarah Jdaitawi✨
+## Hi, I'ms Sarah Jdaitawi✨
 ![](https://komarev.com/ghpvc/?username=sarahjdaitawi&label=Profile+Views)
 
 
