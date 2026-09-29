@@ -4,7 +4,7 @@
 
 ### Software Engineering Student @ Jordan University of Science and Technology
 ---
-
+## Tech Stack: [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 
