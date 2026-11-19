@@ -1,21 +1,63 @@
-![](https://komarev.com/ghpvc/?username=sarahjdaitawi&label=Profile+Views)
 
-# Hi, I'm Sarah Jdaitawi✨
+<div align="center">
 
-### Software Engineering Student @ Jordan University of Science and Technology
----
-## Tech Stack:
+# Hi, I'm Sarah 🌿
 
----
-## Featured Projects
+**Software Engineering Student @ Jordan University of Science and Technology**
 
-### 📱 Flutter Weather App
+*Learning, building, and figuring things out along the way.*
 
-Real-time weather application built with Flutter and REST APIs.
-
-🔗 https://github.com/DotHW/h03.git
+</div>
 
 ---
+
+### ✦ A little about me
+
+I'm a software engineering student who enjoys turning ideas into something real.
+
+I'm particularly interested in mobile development, but I love exploring different areas of software engineering, understanding how things work, and finding creative approaches to solving problems.
+
+I also enjoy explaining what I learn. I believe understanding something well enough to teach it is one of the best parts of learning.
+
+Outside of programming, I'm interested in art, visual storytelling, and creating things that are both useful and thoughtfully designed.
+
+### ✦ Technologies I'm exploring
+
+**Languages**
+
+`Dart` · `C++` · `C#` · `JavaScript`
+
+**Frameworks & Technologies**
+
+`Flutter` · `Node.js` · `Express` · `SQLite`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code`
+
+### ✦ Currently
+
+- 📱 Building and experimenting with Flutter applications
+- 🌱 Strengthening my understanding of software design and development
+- 📚 Exploring algorithms, databases, and backend development
+- 🎨 Interested in combining technology, education, and visual creativity
+- ✨ Working on documenting and sharing more of what I create
+
+### ✦ A little more about me
+
+- 🌍 I communicate fluently in both English and Arabic.
+- 💡 I enjoy making complex ideas easier to understand.
+- 🎨 I'm drawn to the intersection of creativity and technology.
+- 🌱 I believe there's always something new worth learning.
+
+---
+
+<div align="center">
+
+*One project, one lesson, one little improvement at a time.*
+
+</div>
+
 
 <!--Here are some ideas to get you started:
 
