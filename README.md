@@ -1,10 +1,10 @@
 # Hey, I'm Sarah!
 
-I'm a Software Engineering student at Jordan University of Science and Technology.
-
-I'm interested in a little bit of everything when it comes to software development, though lately I've been spending more time with Flutter.
+I'm a Software Engineering student at Jordan University of Science and Technology (JUST).
 
 I like building things, figuring out how they work, and occasionally making my life harder by trying something new.
+
+Lately, I've been spending more time with Flutter and exploring backend development. I'm still figuring out which areas of software engineering I enjoy most.
 
 ### What I've been working with
 
@@ -14,19 +14,6 @@ I like building things, figuring out how they work, and occasionally making my l
 
 - Working on Flutter projects
 - Learning more about backend development
-- Trying to get better at actually documenting my projects
+- Getting better at documenting what I build
 
-That's about it for now. More projects to come!
-
-
-<!--Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'll add projects here as I finish them.
